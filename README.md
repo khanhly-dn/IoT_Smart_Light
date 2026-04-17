@@ -25,7 +25,9 @@ Ngoài chế độ tự động, hệ thống còn hỗ trợ **điều khiển 
 
 **Cảm biến ánh sáng** đọc ADC → **ESP32 xử lý** → So sánh ngưỡng (2000) → **Điều khiển relay/LED** → **Phản hồi trạng thái lên Web**  
 **Người dùng** truy cập Web → Gửi lệnh HTTP → **ESP32 WebServer** xử lý → Cập nhật trạng thái thực tế
-
+<p align="center">
+  <img width="600" alt="So do hoat dong" src="https://github.com/khanhly-dn/IoT_Smart_Light/blob/main/SD.png?raw=true" />
+</p>
 ---
 
 ## 🛠️ **Phần cứng sử dụng**
