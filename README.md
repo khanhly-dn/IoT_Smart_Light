@@ -37,7 +37,9 @@ Ngoài chế độ tự động, hệ thống còn hỗ trợ **điều khiển 
 | **LED Indicator** | Đèn trạng thái phụ – GPIO4 |
 | **Cảm biến ánh sáng** | Quang trở + ADC – GPIO34 |
 | **Nguồn** | 5V USB hoặc pin |
-
+<p align="center">
+  <img width="600" alt="Linh kien" src="">
+</p>
 ---
 
 ## 💻 **Phần mềm & Công nghệ**
