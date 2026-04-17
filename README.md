@@ -104,8 +104,7 @@ Ngoài chế độ tự động, hệ thống còn hỗ trợ **điều khiển 
 
 ## 📷 **Demo**
 
-- **Video hoạt động:** *(đính kèm link hoặc QR code)*  
-- **Hình ảnh hệ thống:** *(thêm ảnh mạch, giao diện web tại đây)*  
+- **Video hoạt động:** *(đính kèm link hoặc QR code)*
 
 ---
 
