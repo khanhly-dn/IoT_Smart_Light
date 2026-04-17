@@ -113,4 +113,4 @@ Ngoài chế độ tự động, hệ thống còn hỗ trợ **điều khiển 
 
 - **Lý Gia Khánh**  
 
-*Khoa Công nghệ Thông tin – *(Tên trường của bạn)**
+*Khoa Công nghệ Thông tin – *Trường Đại Học Đại Nam**
