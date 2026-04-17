@@ -38,7 +38,7 @@ Ngoài chế độ tự động, hệ thống còn hỗ trợ **điều khiển 
 | **Cảm biến ánh sáng** | Quang trở + ADC – GPIO34 |
 | **Nguồn** | 5V USB hoặc pin |
 <p align="center">
-  <img width="600" alt="Linh kien" src="<img width="607" height="305" alt="image" src="https://github.com/khanhly-dn/IoT_Smart_Light/blob/main/TB.png?raw=true" />">
+  <img width="600" alt="Linh kien" src="https://github.com/user-attachments/assets/4992eae4-6d65-485a-999b-b7f80848241f" />
 </p>
 ---
 
