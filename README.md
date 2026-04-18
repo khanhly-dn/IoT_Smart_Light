@@ -104,7 +104,7 @@ Ngoài chế độ tự động, hệ thống còn hỗ trợ **điều khiển 
 
 ## 📷 **Demo**
 
-- **Video hoạt động:** *https://drive.google.com/file/d/1ijytU0aPtYu9HGlL-Ec1LZHK0a8L4n2Z/view?usp=sharing*
+- **Video hoạt động:** *https://drive.google.com/file/d/12pE3KBME4VVJskmxg6SIgsZlZfuVyXRV/view?usp=sharing*
 
 ---
 
